@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Models.csproj" />
+    <ProjectReference Include="..\IServiceSample\IServiceSample.csproj" />
+    <ProjectReference Include="..\RepositorySample\RepositorySample.csproj" />
+  </ItemGroup>
+
+</Project>

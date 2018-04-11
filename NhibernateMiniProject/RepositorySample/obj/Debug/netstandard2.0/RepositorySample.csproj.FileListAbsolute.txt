@@ -1,0 +1,15 @@
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\RepositorySample.deps.json
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\RepositorySample.dll
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.AssemblyInfo.cs
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\RepositorySample.pdb
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\NhibernateDb.dll
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\NhibernateMapping.dll
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\NhibernateDb.pdb
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\NhibernateMapping.pdb
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.dll
+C:\Users\Casper\Desktop\NhibernateMiniProject\RepositorySample\obj\Debug\netstandard2.0\RepositorySample.pdb
